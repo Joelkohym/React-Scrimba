@@ -5,7 +5,7 @@ import MainContent from "./Component/MainContent";
 
 function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <Header />
       <MainContent />
       <Footer />
@@ -13,4 +13,3 @@ function App() {
   );
 }
 export default App;
-
